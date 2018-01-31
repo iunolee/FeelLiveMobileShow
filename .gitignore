@@ -1,0 +1,2 @@
+#Ignore data folder as it's too big
+node_modules
